@@ -4,5 +4,6 @@ beginning of a project
 
 <header> Hello <header/>
 
-    <body> This is my first attempt at doing this on my own<body/>
+<body> This is my first attempt at doing this on my own<body/>
+
 <html/>
