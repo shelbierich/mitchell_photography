@@ -1,12 +1,19 @@
 <!DOCTYPE html>
-# my_project
-beginning of a project
 <html>
 
 <head> 
-<title> Hello</title> 
+    <title>Hello</title> 
+    <div> Hello World </div>
 </head>
+<body style="background-color:teal;">
+<img src="img URL" alt="description" width="500" height="200">
+ 
+ <h1 align="center" style="background-color:red;"> Heading </h1>
+<p>This is my first attempt at creating something using HTML!</p> 
 
-<body> This is my first attempt at doing this on my own</body>
+
+
+<p> This is just a second paragraph</p>
+</body>
 
 </html>
