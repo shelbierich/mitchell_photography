@@ -2,7 +2,7 @@
 
 ## Description
 ```
-A brief description of your project
+I created this website as a place to receive information on ways that people can help give back to those in our community who have fallen upon hard times. 
 
 ```
 
