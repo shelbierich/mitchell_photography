@@ -1,0 +1,15 @@
+.boxed {
+    border: 10px solid rgb(128, 0, 60) ;
+  }
+
+  h1 {
+    color: navy;
+    margin-left: 20px; }
+   
+    .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+      
+  }    
