@@ -2,7 +2,7 @@
 
 ## Description
 ```
-I created this website as a place to receive information on ways that people can help give back to those in our community who have fallen upon hard times. 
+I have created this website to show the amazing photography work of a friend. 
 
 ```
 
