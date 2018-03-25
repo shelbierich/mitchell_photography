@@ -1,3 +1,5 @@
+// name and email
+
 function validateForm() {
     var x = document.forms["form"]["name"]["email"].value;
     if (x == "") {
@@ -24,7 +26,7 @@ function openModal() {
     showSlides(slideIndex += n);
   }
   
-  // Thumbnail image controls
+  // Image controls
   function currentSlide(n) {
     showSlides(slideIndex = n);
   }

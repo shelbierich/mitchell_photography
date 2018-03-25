@@ -26,8 +26,9 @@ this class creates a padding and changes the color of the text in the submit for
 
 
 
-
+```
 ## Custom JavaScript Functions
+```
 
 The javascript functions I created are:
 
