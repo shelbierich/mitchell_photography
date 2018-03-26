@@ -1,7 +1,7 @@
 // name and email
 
 function validateForm() {
-    var x = document.forms["form"]["name"]["email"].value;
+    var x = document.forms["form"]["email"].value;
     if (x == "") {
         alert("Name or email must be filled out");
         return false;

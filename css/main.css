@@ -172,6 +172,14 @@
     position: absolute;
     top: 0;
   }
+
+  .text {
+    color:white;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+  }
   
 /* Caption text */
 .caption-container {
